@@ -8,7 +8,7 @@
 ### Languages & Frameworks I use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,vue,vite,postgres,docker,redis,rabbitmq,fastapi,elasticsearch,&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=go,python,ts,vue,vite,postgres,docker,redis,rabbitmq,fastapi,elasticsearch,godot,&theme=dark&perline=15" />
   </a>
 </p>
 
